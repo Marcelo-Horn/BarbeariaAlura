@@ -1,0 +1,31 @@
+#cabecalho>h1{
+    margin-left: 20px;
+}
+.imgBarb {
+    width: 100%;
+}
+.sobre {
+    background-color: #CCCCCC;
+    text-align: center;
+    font-size: 1em;
+    padding: 30px 30px 30px 30px;
+}
+section>.missao{
+    font-size: 1.25em;
+}
+.missao em>strong{
+    color: red;
+}
+.beneficios{
+    padding: 20px 20px;
+}
+.textoCetralizado{
+    text-align: center;
+}
+.beneficios ul{
+    display: inline-block;
+    vertical-align: top;
+}
+.imgBeneficios{
+    width: 50%;
+}
